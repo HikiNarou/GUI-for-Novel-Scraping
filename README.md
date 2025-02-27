@@ -51,3 +51,9 @@ pip install PyQt5
 pip install requests
 pip install beautifulsoup4
 pip install pdfkit
+pip install selenium
+```
+
+Configuring pdfkit (Optional)
+* pdfkit relies on the installation of wkhtmltopdf.You need to manually install wkhtmltopdf for the PDF conversion to work.
+* Windows:Download the installer from the wkhtmltopdf website and install it. pdfkit can usually find the installation automatically. If not, you may need to manually configure the path to the wkhtmltopdf executable in the code (although in this script, the default configuration is used).
