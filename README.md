@@ -1,4 +1,4 @@
-![Project Logo/Screenshot Placeholder]([link-to-your-project-logo-or-screenshot-here](https://i.ibb.co.com/PGx4rZZq/image.png))
+![Project Screenshot]([link-to-your-project-logo-or-screenshot-here](https://i.ibb.co.com/PGx4rZZq/image.png))
 
 ## Description
 
